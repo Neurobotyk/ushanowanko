@@ -1,3 +1,5 @@
+discord server
+
 fractal channeling approach
 
 Actors of the system:
