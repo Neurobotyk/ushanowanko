@@ -1,4 +1,5 @@
-discord server
+discord server:
+https://discord.gg/gCNE2yEF
 
 fractal channeling approach
 
